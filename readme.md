@@ -6,7 +6,7 @@
 **📱 Phone:** +201060178099  
 **🔗 LinkedIn:** [linkedin.com/in/abdullah-abdelhakeem](https://linkedin.com/in/abdullah-abdelhakeem)  
 **🐱 GitHub:** [github.com/abdullah6484](https://github.com/abdullah6484)  
-**🌐 Portfolio:** [abdullah-automotive-portfolio.dev](https://portfolio.dev)
+**🌐 Portfolio:** [abdullah-automotive-portfolio.dev](https://abdullahabdelhakeem6484.github.io/)
 
 ---
 
